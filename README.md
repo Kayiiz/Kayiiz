@@ -1,1 +1,1 @@
-https://github.com/Kayiiz/jumpscare.git
+file:///C:/Users/HP/OneDrive/Documents/jumpscare/index.html
